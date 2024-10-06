@@ -8,7 +8,7 @@ import FotoAle3 from "./assets/FotoAle3.jpg";
 import FotoAle4 from "./assets/FotoAle4.jpg";
 import FotoAle5 from "./assets/FotoAle5.jpg";
 import FotoAle6 from "./assets/FotoAle6.jpg";
-import CorazonIcon from "./assets/CorazonIcon.png";
+import CorazonIcon from "./assets/corazonIcon.png";
 import MinecraftIcon from "./assets/DiamanteMinecraft.png";
 import MarioIcon from "./assets/MarioEstrella.png";
 import stardewValleyIcon from "./assets/stardewValleyIcon.png";
